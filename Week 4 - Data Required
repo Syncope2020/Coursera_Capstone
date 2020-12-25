@@ -1,0 +1,6 @@
+Data Required for Capstone Project:
+- Foursquare API to leverage nearby facilities
+- Australia postcode location data from: "https://www.corra.com.au/australian-postcode-location-data/"
+- Specific postcodes from the Sunshine coast from: "https://www.geopostcodes.com/Sunshine_Coast"
+
+With these data sources, I will have the postcodes, their coordinates. And then using Foursquare I will be able to find nearby facilities, and the through K - Means algorithyms I will be able to cluster these into similar postcodes.
